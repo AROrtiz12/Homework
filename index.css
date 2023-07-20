@@ -1,0 +1,45 @@
+.stateblue {
+    color: slateblue;
+}
+.button {
+    background-color: aqua;
+}
+#table {
+    font-family: Arial, Helvetica, sans-serif;
+}
+#tabla{
+    font-size: medium;
+}
+#tabla{
+    height: 100%;
+}
+#tabla{
+    width: 100%;
+}
+#tabla{
+    margin: 0;
+    padding: 20px;
+}
+#tabla{
+    background-color: aqua;
+}
+head{
+    height: 90%;
+    width: 100%;
+}
+head{
+    margin: 0;
+    padding: 20px;
+}
+head{
+    color:aqua;
+}
+head{
+    text-align: center;
+}
+head{
+    color: blue;
+}
+.listas{
+    display: flex;
+}
